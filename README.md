@@ -1,5 +1,3 @@
-print("""# Proyecto: Análisis de Rendimiento Estudiantil
-
 ## 📋 Descripción
 Análisis predictivo del rendimiento académico usando Machine Learning.
 
@@ -27,7 +25,7 @@ Análisis predictivo del rendimiento académico usando Machine Learning.
 - Error promedio: 3.2 puntos
 
 ## 👨‍💻 Autor
-Marcos Fernández - [marcosfernandez1001@gmail.com]
+Marcos Lautaro Fernández - [marcosfernandez1001@gmail.com] - CoderHouse2025
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT.
